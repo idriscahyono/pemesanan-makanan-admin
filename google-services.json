@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "37027791231",
+    "firebase_url": "https://adnroideat-bc287.firebaseio.com",
+    "project_id": "adnroideat-bc287",
+    "storage_bucket": "adnroideat-bc287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37027791231:android:8623f40aa8c05d92",
+        "android_client_info": {
+          "package_name": "com.example.acerpredator.androideatitserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37027791231-udhsk3qhu45t1rc51hj424ecpfpbpklc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acerpredator.androideatitserver",
+            "certificate_hash": "e81d369e443bf5746b8d8a5a66b110b1660d7c9d"
+          }
+        },
+        {
+          "client_id": "37027791231-qqjs2jmfb2tfg70vl7a1393u9ma0jhbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY68Y72lABQ6fdTFEjDtJQ0c-zo6cZgd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37027791231-qqjs2jmfb2tfg70vl7a1393u9ma0jhbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37027791231:android:d5fafa80cee01a08",
+        "android_client_info": {
+          "package_name": "com.example.hp.androideat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37027791231-umptlqjtqvat96dd78ch1emhcjrq138i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.androideat",
+            "certificate_hash": "e81d369e443bf5746b8d8a5a66b110b1660d7c9d"
+          }
+        },
+        {
+          "client_id": "37027791231-qqjs2jmfb2tfg70vl7a1393u9ma0jhbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY68Y72lABQ6fdTFEjDtJQ0c-zo6cZgd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37027791231-qqjs2jmfb2tfg70vl7a1393u9ma0jhbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
